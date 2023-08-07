@@ -1,0 +1,3 @@
+[submodule "riscv-bitmanip"]
+	path = riscv-bitmanip
+	url = https://github.com/msyksphinz-self/riscv-bitmanip.git
